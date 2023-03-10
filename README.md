@@ -29,7 +29,7 @@
 - Admin Stisla
 - Database MySQL
 
-URL Local: http://127.0.0.1:8000/
+<p>URL Local: http://127.0.0.1:8000/</p>
 ---
 
 For Ummah is created by [Jehian](https://jehianth.github.io/) ([Instagram](https://instagram.com/jehianth)). <br>
