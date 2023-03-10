@@ -19,14 +19,14 @@
 
 ## Feature
 
-- Authentication for Admin or Editor
-- Homepage: About Us, Blog, 'Kas Masjid', Social Media, Location, Contact
+- Authentication for SuperAdmin, Admin, and Editor
+- Homepage: Home, Blog, 'Kas Masjid', Social Media, Location, and Contact
 - Admin Page
 
 ## Resource Tech
 
 - Laravel 9, PHP 8.0.2, Node v15
-- Laravel Breeze, Inertia, ReactJS, Tailwind CSS, Admin Stisla
+- Admin Stisla
 - Database MySQL
 
 ---
