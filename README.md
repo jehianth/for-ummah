@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">For Ummah Fork</h1>
+<h1 align="center">For Ummah</h1>
 
 <span align="center">
 
