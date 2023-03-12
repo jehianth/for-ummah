@@ -1,5 +1,5 @@
 <footer>
-    <div class="simple-footer" style="color:#8c9499">
+    <div class="simple-footer">
         Copyright &copy; 2023
         <div class="bullet">&#x2022;</div>
         Created By Ummah 
