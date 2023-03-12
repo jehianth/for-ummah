@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "builds": [{
+        "src": "public/index.php",
+        "use": "@vercel/php",
+        "config": {
+            "outputDirectory": "dist"
+        }
+    }]
+}
