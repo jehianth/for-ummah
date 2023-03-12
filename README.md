@@ -29,6 +29,15 @@
 - Admin Stisla
 - Database MySQL
 
+<p>URL Local: http://127.0.0.1:8000/
+<br>URL Ngrok: https://5ed4-112-78-156-228.ap.ngrok.io/
+</p>
+
+## Command
+
+- npm run dev
+- php artisan serve
+- ngrok http 8000
 ---
 
 For Ummah is created by [Jehian](https://jehianth.github.io/) ([Instagram](https://instagram.com/jehianth)). <br>
