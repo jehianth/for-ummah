@@ -1,8 +1,7 @@
 {
     "scripts": {
         "dev": "vite",
-        "build": "vite build",
-        "postinstall": "npm run production"
+        "build": "vite build"
     },
     "devDependencies": {
         "axios": "^1.1.2",
