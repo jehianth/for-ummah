@@ -10249,9 +10249,9 @@ body {
   background-color: #e9ecef;
 }
 .simple-footer {
-  margin-top: 40px;
   margin-left: 20px;
-  margin-bottom: 20px;
+  color:#8c9499;
+  font-size:12px;
 }
 .bullet, .slash {
   display: inline;
