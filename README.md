@@ -30,7 +30,7 @@
 - Database MySQL
 
 <p>URL Local: http://127.0.0.1:8000/
-<br>URL Ngrok: https://5ed4-112-78-156-228.ap.ngrok.io/
+<br>URL Ngrok: https://6277-103-9-22-189.ap.ngrok.io/
 </p>
 
 ## Command
