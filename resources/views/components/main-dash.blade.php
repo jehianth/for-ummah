@@ -11,7 +11,7 @@
 @endpush
 
 @section('breadcrumbs')
-    For Ummah / Dashboard
+    <a href="/">For Ummah</a> / Dashboard
 @endsection
 
 @section('main')
